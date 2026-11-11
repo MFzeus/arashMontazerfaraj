@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="26 58 460 396" role="img" aria-label="Arash Montazerfaraj logo">
+  <rect x="32" y="64" width="448" height="384" rx="44" fill="#0d1117" stroke="#ffa36c" stroke-width="12"/>
+  <path d="M38 152 H474" stroke="#243041" stroke-width="6"/>
+  <circle cx="92" cy="108" r="13" fill="#ffa36c"/>
+  <circle cx="136" cy="108" r="13" fill="#3a4658"/>
+  <circle cx="180" cy="108" r="13" fill="#3a4658"/>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M84 300 L124 336 L84 372" stroke="#ffa36c" stroke-width="22"/>
+    <path d="M170 372 L222 230 L266 360 L310 230 L362 372" stroke="#e6ebf2" stroke-width="26"/>
+    <path d="M196 316 H246" stroke="#ffa36c" stroke-width="16" stroke-linecap="butt"/>
+  </g>
+  <rect x="392" y="332" width="30" height="46" rx="4" fill="#ffa36c"/>
+</svg>
